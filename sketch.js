@@ -19,7 +19,7 @@ function preload() {
   boatSpritedata = loadJSON("assets/boat/pig.json");
   boatSpritesheet = loadImage("assets/boat/pig.png");
   brokenboatSpritedata = loadJSON("assets/boat/Kingcry.json");
-  brokenboatSpritesheet = loadImage("assets/boat/Kingg.png");
+  brokenboatSpritesheet = loadImage("assets/boat/kingg.png");
 
 }
 
